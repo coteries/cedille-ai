@@ -6,6 +6,8 @@
 
 Cedille is a GPT-J model, it can be run using the [`kingoflolz/mesh-transformer-jax` codebase](https://github.com/kingoflolz/mesh-transformer-jax).
 
+We are currently working on a technical paper about Cedille, stay tuned!
+
 For any help or custom development, contact us at info@coteries.com
 
 ## 🔗 Links
