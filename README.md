@@ -19,4 +19,4 @@ Playground: https://app.cedille.ai/
 ## 🙏 Acknowledgement
 
 * The project was made possible with the generous support from the [Google TRC program](https://sites.research.google/trc/about/).
-* Cedille is based on the [GPT-J model](https://github.com/kingoflolz/mesh-transformer-jax) developed by [EleutherAI's wizards](eleuther.ai).
+* Cedille is based on the [GPT-J model](https://github.com/kingoflolz/mesh-transformer-jax) developed by [EleutherAI's wizards](https://www.eleuther.ai/).
