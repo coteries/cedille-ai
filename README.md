@@ -10,6 +10,21 @@ We are currently working on a technical paper about Cedille, stay tuned!
 
 For any help or custom development, contact us at info@coteries.com
 
+# 🗣 Citing Cedille
+
+Thanks for citing our work in case you build on top of Cedille. For the time being, please reference our work like so:
+
+```bibtex
+@misc{cedille2021,
+  author = {Laurent, F. and Muller, M.},
+  title = {Cedille AI},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/coteries/cedille-ai}}
+}
+```
+
 ## 🔗 Links
 
 Website: https://cedille.ai
