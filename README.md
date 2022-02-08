@@ -24,7 +24,7 @@ Thanks for citing our work if you make use of Cedille
 ```bibtex
 @misc{muller2022cedille,
       title={Cedille: A large autoregressive French language model}, 
-      author={Martin M\"uller and Florian Laurent},
+      author={Martin M{\"{u}}ller and Florian Laurent},
       year={2022},
       eprint={2202.03371},
       archivePrefix={arXiv},
