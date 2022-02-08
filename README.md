@@ -27,13 +27,13 @@ For any help or custom development, contact us at hello@cedille.ai
 Thanks for citing our work in case you build on top of Cedille. For the time being, please reference our work like so:
 
 ```bibtex
-@misc{cedille2021,
-  author = {Laurent, F. and Muller, M.},
-  title = {Cedille AI},
-  year = {2021},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/coteries/cedille-ai}}
+@misc{muller2022cedille,
+      title={Cedille: A large autoregressive French language model}, 
+      author={Martin M\"uller and Florian Laurent},
+      year={2022},
+      eprint={2202.03371},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
