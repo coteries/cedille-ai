@@ -16,16 +16,11 @@ Model checkpoint: [French model, 150k training steps ("Boris")](https://storage.
 
 Cedille is a GPT-J model, it can be run using the [`kingoflolz/mesh-transformer-jax` codebase](https://github.com/kingoflolz/mesh-transformer-jax).
 
-### Technical details
+## 📊 Cedille paper
 
-We are currently working on a technical paper about Cedille, stay tuned!
+Our paper is out now! https://arxiv.org/abs/2202.03371
 
-For any help or custom development, contact us at hello@cedille.ai
-
-# 🗣 Citing Cedille
-
-Thanks for citing our work in case you build on top of Cedille. For the time being, please reference our work like so:
-
+Thanks for citing our work if you make use of Cedille
 ```bibtex
 @misc{muller2022cedille,
       title={Cedille: A large autoregressive French language model}, 
@@ -44,6 +39,8 @@ Website: https://cedille.ai
 Playground: https://app.cedille.ai/
 
 Twitter: https://twitter.com/cedilleai
+
+Paper: https://arxiv.org/abs/2202.03371
 
 ## 🙏 Acknowledgement
 
