@@ -14,7 +14,16 @@ This is the most convenient way to use the model for most people.
 
 Model checkpoint: [French model, 150k training steps ("Boris")](https://storage.googleapis.com/cedille-public/models/boris/step_150000.tar.gz) (9.0gb tar file!)
 
-Cedille is a GPT-J model, it can be run using the [`kingoflolz/mesh-transformer-jax` codebase](https://github.com/kingoflolz/mesh-transformer-jax).
+Cedille is a GPT-J model, it can be run using the [`mesh-transformer-jax` codebase](https://github.com/kingoflolz/mesh-transformer-jax).
+
+### Why is this repository empty?
+
+The Cedille model is open-source:
+- The model checkpoints are provided above (MIT License)
+- It was trained using the [`mesh-transformer-jax` codebase](https://github.com/kingoflolz/mesh-transformer-jax) (Apache-2.0 License)
+- It can be run either using the [🤗Transformers library](https://github.com/huggingface/transformers) (Apache-2.0 License) or [`mesh-transformer-jax`](https://github.com/kingoflolz/mesh-transformer-jax) depending on your needs
+
+And that's all there is to it! This repository is mostly here to guide you towards these resources 😉
 
 ## 📊 Cedille paper
 
